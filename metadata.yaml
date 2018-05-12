@@ -1,0 +1,36 @@
+_repo: Thirty-Years-in-Australia_37825
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37825-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cambridge, Ada
+    alias: Cross, Ada Cambridge
+    birthdate: 1844
+    deathdate: 1926
+    gutenberg_agent_id: '1403'
+    url: http://www.gutenberg.org/2009/agents/1403
+    wikipedia: http://en.wikipedia.org/wiki/Ada_Cambridge
+description: Ada Cambridge had only been married for a few weeks when she set out
+  for Australia with her new husband, a clergyman. Over the next several decades,
+  the two lived and worked in a series of small, relatively rudimentary outposts,
+  along with their growing family. This fascinating account of her transformation
+  and acclimation to Australian culture will please fans of well-written memoirs.
+gutenberg_issued: '2011-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37825'
+  lccn: 09032411
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcc 'DU'
+- !lcsh 'Australia -- Social life and customs'
+- !lcsh 'Cambridge, Ada, 1844-1926'
+- !lcsh 'Authors, Australian -- 19th century -- Biography'
+title: Thirty Years in Australia
+url: http://www.gutenberg.org/ebooks/37825
